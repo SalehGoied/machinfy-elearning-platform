@@ -1,6 +1,6 @@
 # Machinfy — Bilingual E-Learning Platform
 
-> **Portfolio overview** — This document describes a private, production e-learning platform. Source code is proprietary and not available for public distribution.
+> **Portfolio overview** — This document describes a private, production e-learning platform.
 
 **Role:** Full-stack developer  
 **Status:** Production — [machinfy.com](https://machinfy.com/)  
@@ -48,8 +48,6 @@ The platform supports **self-paced video courses**, **live interactive cohorts**
 
 ![Filament admin dashboard](screenshots/6.png)
 
-> Add your images as `screenshots/1.png` through `screenshots/6.png`. Remove any rows above if you use fewer screenshots.
-
 ---
 
 ## What I Built
@@ -62,7 +60,7 @@ The platform supports **self-paced video courses**, **live interactive cohorts**
 - **Exams** with MCQ and essay submissions, grading workflow, and results
 - **Certificates** with eligibility rules, PDF generation, and public verification
 - Trainee dashboard: enrollments, orders, profile, support tickets
-- **Live courses portal**: groups, sessions, reservations, and classroom access (integrated with an external live-training system)
+- **Live courses portal**: groups, sessions, reservations, and classroom access
 - Marketing modules: blog, CMS pages, custom landing pages with checkout, wheel-of-fortune promotions
 - **Prompts hub**: configurable AI prompt template catalog with dynamic forms
 - **Select catalog**: talent/service listings with interview request flows
@@ -259,26 +257,13 @@ flowchart TB
 
 ---
 
-## What Is Not Public
-
-This repository overview is for portfolio purposes only. The following remain private:
-
-- Application source code
-- Database schemas and migrations
-- Environment configuration and API keys
-- Payment gateway credentials and webhook secrets
-- Proprietary business logic and integrations
-
----
-
 ## Contact
 
 If you would like to discuss this project, architecture decisions, or similar work:
 
-- **GitHub:** [your-github-username](https://github.com/your-github-username)
-- **LinkedIn:** [your-linkedin-url]
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [Saleh Goied](https://www.linkedin.com/in/saleh-goied)
+- **Email:** [salehgoied@gmail.com](mailto:salehgoied@gmail.com)
 
 ---
 
-*Built as a production e-learning platform. Source code is proprietary.*
+*Built as a production e-learning platform.*
