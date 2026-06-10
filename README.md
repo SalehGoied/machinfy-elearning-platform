@@ -1,4 +1,4 @@
-# Machinfy — Bilingual E-Learning Platform
+# Machinfy — E-Learning Platform
 
 > **Portfolio overview** — This document describes a private, production e-learning platform.
 
